@@ -5,7 +5,10 @@
     font-family:'Nunito sans';
 }
 
-h1{
+h4{
+    padding-top: 50;
+}
+h2{
     padding-top: 50;
 }
 
@@ -112,6 +115,9 @@ h1{
 .button{
     background-color: rgb(236, 101, 146);
     width: 150px;  
+    height: 20px;
+    border-radius: 100;
+
 }
 .container1{
     background-color: rgb(245, 239, 239);
@@ -120,4 +126,71 @@ h1{
 
     width: 1000px;
     height: 100px;
+}
+.fleximages{
+    flex-direction: row;
+    display: flex;
+    width: 50px;
+ 
+   
+
+}
+.flexbox1{
+    flex-direction: row;
+    display: flex;
+ 
+
+}
+.infoflex{
+    flex-direction: row;
+
+ 
+}
+.proffesion{
+    color: #EC4067;
+
+}
+.aboutproffesion{
+    font-size: small;
+
+}
+.askbutton{
+
+}
+.rose-oketch{
+    word-wrap: normal;
+
+}
+.albert-byron{
+
+}
+.raphael-katana{
+
+}
+.christine-karimi{
+
+  
+}
+.item1{
+    width: 100px;
+    padding: 30;
+
+}
+.item2{
+    width: 100px;
+    padding: 30;
+
+}
+.item3{
+    width: 100px;
+    padding: 30;
+
+}
+.item4{
+    width: 100px;
+    padding: 30;
+}
+.button_width{
+    width: 50px;
+  
 }
