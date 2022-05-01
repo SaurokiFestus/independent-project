@@ -1,0 +1,123 @@
+.body{
+    font-family: sans-serif, monospace, cursive, fantasy;
+    width: 1000px;
+    padding-left: 100px;
+    font-family:'Nunito sans';
+}
+
+h1{
+    padding-top: 50;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50; 
+}
+
+.item1{
+    flex: 3;  
+    font-size: large;
+}
+
+.item2{
+    width: 100px;
+}
+
+.item3{
+    width: 100px;
+}
+
+.item4{
+    width: 100px;
+}
+
+.item5{
+    width: 100px;
+}
+
+.text1{
+    width: 700px;
+   
+}
+
+.text2{
+    margin: 50px;
+    padding-left: 50;
+}
+
+.text3{
+    margin: 50px;
+    padding-right: 50;
+}
+
+.text4{
+    padding-top: 50; 
+    padding-left: 50;
+}
+.text5{
+    padding-top: 55;
+}
+.text6{
+    padding-top: 10;
+}
+.text7{
+   
+}
+.text8{
+  
+}
+.image1{
+    padding-top: 50;
+}
+
+.image3{
+    justify-content: end;  
+}
+
+.image5{
+    flex-direction: row;
+    margin: 10px;
+    display: flex;
+   
+    
+}
+
+.image6{
+   
+    margin: 10px;
+}
+
+.image7{ 
+    margin: 10px;
+}
+
+.image8{  
+    margin: 10px;
+}
+.image9{
+    padding-left: 40;
+}
+.text9{
+    padding-top: 50;
+    
+}
+.text10{
+   
+}
+.text11{
+    
+    align-items: center;
+}
+.button{
+    background-color: rgb(236, 101, 146);
+    width: 150px;  
+}
+.container1{
+    background-color: rgb(245, 239, 239);
+    text-align: center;
+    align-items: center;
+
+    width: 1000px;
+    height: 100px;
+}
